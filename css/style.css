@@ -166,11 +166,11 @@ p.overview{font-size:200%;line-height:1.6em;}
 #about-content{z-index:5;box-shadow:1px 1px 20px rgba(0, 0, 0, 0.6);}
 .no-rgba #about-content{box-shadow:1px 1px 20px #000000;}
 p{margin:6px 0px 12px 0px;}
-.photo-bar{background:url(../img/curie3.png) no-repeat center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;box-shadow:inset 0px 0px 20px rgba(0, 0, 0, 0.5);font-size:26px;width:100%;}
+.photo-bar{background:url(../img/curie6.png) no-repeat center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;box-shadow:inset 0px 0px 20px rgba(0, 0, 0, 0.5);font-size:26px;width:100%;}
 /*.photo-bar.about-disciplines{background-image:url(../img/about-disciplines-1920.jpg);}*/
 
-.photo-bar.storytellers{background-image:url(../img/curie3.png);}
-.photo-bar.work-with{background-image:url(../img/curie3.png);}
+.photo-bar.storytellers{background-image:url(../img/curie5.png);}
+.photo-bar.work-with{background-image:url(../img/curie7.png);}
 .photo-bar.work-with .container_24{padding:40px 0px;font-size:60%;}
 .photo-bar .large{font-size:150%;}
 .photo-bar .small *{font-size:80%;line-height:1.6em;}
