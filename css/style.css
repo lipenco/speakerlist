@@ -122,7 +122,8 @@ p.overview{font-size:200%;line-height:1.6em;}
 #about-top #home-logos a.cssa{width:45px;background-image:url(../img/logo-cssa.png);}
 .white-bg{background-color:#fff;font-size:15px;padding:20px 0px;min-width:1024px;width:100%;z-index:50;}
 .white-bg .italic{display:inline-block;margin-bottom:6px;}
-.white-bg blockquote{border-top:1px solid #aaa;border-bottom:1px solid #aaa;text-align:center;font-size:1.4em;margin:1em 0;padding:22px 0px;}
+.white-bg blockquote{border-top:1px solid #aaa;border-bottom:1px solid #aaa;text-align:center;
+  font-size:1.4em;margin:6em 0 2em 0;padding:22px 0px;}
 .white-bg *{color:#222;font-family:'Merriweather',Georgia,serif;line-height:1.8em;}
 .white-bg .large{font-size:300%;}
 .white-bg ul{margin:0px;padding:0px;}
